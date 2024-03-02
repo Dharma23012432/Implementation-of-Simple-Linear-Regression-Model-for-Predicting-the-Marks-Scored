@@ -20,6 +20,7 @@ Developed by: DHARMALINGAM S
 RegisterNumber:  212223040037
 */
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -55,6 +56,7 @@ print("RMSE : ",np.sqrt(mse))
 ```
 
 ## Output:
+```
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 ![Screenshot 2024-03-02 155658](https://github.com/Dharma23012432/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152275002/0cee05ae-7270-417d-98bf-28372c8c89e3)
@@ -73,7 +75,7 @@ print("RMSE : ",np.sqrt(mse))
 
 
 ![Screenshot 2024-03-02 160354](https://github.com/Dharma23012432/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152275002/ca6a564d-8e06-4a62-8456-355b72e537a8)
-
+```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
